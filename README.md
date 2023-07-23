@@ -1,7 +1,7 @@
 
 # tomomikarigo's Website
 
-Visit **[tomomikarigo.github.io/karigo-lab-website](https://tomomikarigo.github.io/karigo-lab-website)** 🚀
+Visit **[karigolab.org](http://karigolab.org)** 🚀
 
 _Built with [Lab Website Template](https://greene-lab.gitbook.io/lab-website-template-docs)_
 
